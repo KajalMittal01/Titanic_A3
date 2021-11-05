@@ -17,4 +17,4 @@ data folder have titanic dataset which is used to perform analysis
 result folder have a report file explaining analysis description
 
 **doc**
-contains any other documentation file
+contains other documentation file
